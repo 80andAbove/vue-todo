@@ -1,6 +1,8 @@
 <template>
-  <div>
-    TesTiNg
+  <div class="container">
+    <h1 class="text-center mt-5">
+      TesTiNg
+    </h1>
   </div>
 </template>
 
