@@ -12,7 +12,24 @@
 
     <!-- Task Table -->
     <div>
-
+      <table class="table table-bordered mt-5">
+        <thead>
+          <tr>
+            <th scope="col">
+              Task
+            </th>
+            <th scope="col">
+              Status
+            </th>
+            <th scope="col">
+              #
+            </th>
+            <th scope="col">
+              #
+            </th>
+          </tr>
+        </thead>
+      </table>
     </div>
   </div>
 </template>
